@@ -6,7 +6,7 @@ You'll find url
 
 ## angular - redux
 
-Here we are taking advance of firebase to develop an application in whiche the database reads are seamless
+Here we are taking advance of firebase to develop an application in which the database reads are seamless
 
 https://github.com/biaggi/angular-redux-ingreso-egreso
 
